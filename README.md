@@ -1,2 +1,5 @@
 ### A project regarding system security
-This project implements a Caesar Cypher with a basic GUI
+Phase 1: Implements a Caesar Cypher with a basic GUI
+
+
+More info on: https://github.com/RaedMassoud/SystemSecurityProject.git
